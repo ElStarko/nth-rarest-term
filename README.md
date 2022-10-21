@@ -1,4 +1,4 @@
-# nth-rarest-term assuming 
+// assuming 
 // list = [5, 4, 5, 4, 5, 4, 4, 5, 3, 3, 2, 2, 2, 1, 5]
 // n = 2
 
